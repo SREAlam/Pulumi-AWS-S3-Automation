@@ -16,5 +16,5 @@ This repository contains a Python script that uses [Pulumi](https://www.pulumi.c
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Pulumi-AWS-S3-Automation.git
+   git clone https://github.com/SREAlam/Pulumi-AWS-S3-Automation.git
    cd Pulumi-AWS-S3-Automation
